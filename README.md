@@ -42,12 +42,12 @@ The original repository was initially removed by its creator and subsequently ta
 Install in package.json:
 ```json
 "dependencies": {
-    "baileys": "github:nstar-y/bail"
+    "baileys": "github:KaishiNava/Kaishi-baileys"
 }
 ```
 or install in terminal:
 ```
-npm install baileys@github:nstar-y/bail
+npm install baileys@github:KaishiNava/Kaishi-baileys
 ```
 
 Then import the default function in your code:
